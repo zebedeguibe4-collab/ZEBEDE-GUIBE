@@ -1,0 +1,8 @@
+{
+  "name": "CSPLZ — Portail Clinique & Consultation Médicale",
+  "description": "Portail médical du Centre de Santé Privé Laïc Zouabi (CSPLZ) : consultation médicale patient, calcul automatique de l'IMC, ordonnancier officiel synchronisé, catalogue pharmaceutique et registre avec export PDF et Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
